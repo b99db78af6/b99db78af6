@@ -8,6 +8,11 @@ app.get('/api/ip', (req, res) => {
   res.json({ ip });
 });
 
+app.get('/api/date', (req, res) => {
+  const currentDate = new Date().toDateString();
+  res.json({ date: currentDate });
+});
+
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.listen(port, () => {
