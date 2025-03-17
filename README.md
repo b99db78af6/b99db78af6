@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b99db78af6
-- 👀 I’m interested in computer science as whole...
-- 🌱 I’m currently learning a bit of front end stuff.. so I can connect it with my data engineering skills
+- 👀 I’m interested in many different things
+- 🌱 Currently learning a bit of front end stuff.. so I can connect it with my data engineering skills
 - 💞️ I’m looking to collaborate on whatever interesting ideas you may have... just ping me
 - 📫 How to reach me b99db78af6 /at/ protonmail /dot/ com
 
